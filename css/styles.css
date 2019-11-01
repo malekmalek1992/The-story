@@ -1,0 +1,48 @@
+#testimonials{
+
+  text-align: center;
+  background-color: #dcffcc;
+  color: black;
+  font-family: 'Scheherazade', serif;
+  border-style: solid;
+  border-color: black;
+  border-width: 6px;
+  line-height: 1.5;
+}
+#note{
+  padding: 2% 2%;
+  text-align: right;
+  background-color: white;
+  line-height: 1.5;
+  font-family: 'El Messiri', sans-serif;
+}
+#greeting{
+  background-color: #e5d8bf;
+  padding: 2% 5%;
+  text-align: center;
+  font-weight: 900;
+  font-size: 5rem;
+}
+.carousel-item{
+  padding: 3% 15% 10% ;
+
+}
+footer{
+  text-align: center;
+  padding: 3%;
+  font-family: 'El Messiri', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  background-color: #fff;
+}
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+.carousel-caption{
+  color: inherit;
+  font-family: 'Cairo', sans-serif;
+}
+.carousel-indicators{
+background-color:  black;
+}
