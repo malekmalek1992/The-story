@@ -8,7 +8,7 @@
   border-color: black;
   border-width: 6px;
   line-height: 1.5;
-  @media(max-width: 1028px){
+  @media screen and (max-width: 1028px){
     #testimonials{
     font-size: 180px;
     }
